@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.6f810d40.css",
+    "main.js": "/React-Portfolio/static/js/main.322172d4.js",
+    "static/media/The Cassette Tape.png": "/React-Portfolio/static/media/The Cassette Tape.100beb464b5357bb1051.png",
+    "static/media/Gaming App Project.png": "/React-Portfolio/static/media/Gaming App Project.60df7d1506091e3103d7.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.6f810d40.css.map": "/React-Portfolio/static/css/main.6f810d40.css.map",
+    "main.322172d4.js.map": "/React-Portfolio/static/js/main.322172d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f810d40.css",
+    "static/js/main.322172d4.js"
+  ]
+}
